@@ -1,17 +1,10 @@
 # about me
-i specialize in building big systems to crunch through big data and develop big models.
+Hey, I'm Brian! I specialize in computer vision, physics-informed machine learning, and optical systems. I come from a different background than most when it comes to computer science, but I think it adds a nice "spice" to a traditional ML team. :) 
 
-i have previously developed one of the largest reinforcement learning systems at openai for [openai five](https://web.archive.org/web/20230131202504/https://openai.com/five/), along with llm training infrastructure at meta ai / fair that created [opt-175b](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/).
+Before getting into machine learning, I studied engineering physics at McMaster University where I focused on lasers, electro-optics, and "old school" computer vision.
 
-opt-175b was the first release in the industry to include:
-* a 175b parameter model for research use
-* a [114-page logbook](https://github.com/facebookresearch/metaseq/tree/main/projects/OPT/chronicles) detailing the challenges encountered during the 56 days it took to train a 175b llm on new hardware for the first time
-* the entire training [codebase](https://github.com/facebookresearch/metaseq)
-* a full suite of smaller-scale models ranging from [125M to 66B in size](https://github.com/facebookresearch/metaseq/tree/main/projects/OPT) for studying scaling laws.
+You can refer to my [linkedin](https://www.linkedin.com/in/brianmccrindle/) for additional information.
 
-before getting into ai systems, i worked on scaling out data infrastructure and processing pipelines across various cloud providers.
-
-you can refer to my [linkedin](https://www.linkedin.com/in/suchenzang/) for more xp info.
 # talks
 in recent years, i have mainly presented talks on openai five and on opt-175b:
 
@@ -33,12 +26,8 @@ in recent years, i have mainly presented talks on openai five and on opt-175b:
   
 * April 1, 2023: CMU [LLM Seminar](https://cmu-lti-llm.org/talks/)
 
-# publications
-* [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206)
-* [A Theory on Adam Instability in Large-Scale Machine Learning](https://arxiv.org/abs/2304.09871)
-* [Effective Theory of Transformers at Initialization](https://arxiv.org/abs/2304.02034)
-* [Scaling Laws for Generative Mixed-Modal Language Models](https://arxiv.org/abs/2301.03728)
-* [OPT: Open Pre-trained Transformer Language Models](https://arxiv.org/pdf/2205.01068.pdf)
-* [Neural Network Surgery with Sets](https://arxiv.org/pdf/1912.06719.pdf)
-* [Long-Term Planning and Situational Awareness in OpenAI Five](https://arxiv.org/pdf/1912.06721.pdf) 
-* [Dota 2 with Large Scale Deep Reinforcement Learning](https://arxiv.org/abs/1912.06680)
+# Publications, Talks, and the Rest
+* [On the Importance of Label Domain Gaps - Phillip Thomas (joint work at Parallel Domain)](https://www.youtube.com/watch?v=XPeltSxmOJI)
+* [A Radiology-focused Review of Predictive Uncertainty for AI Interpretability in Computer-assisted Segmentation](https://pubs.rsna.org/doi/full/10.1148/ryai.2021210031)
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AMpAcmT-YCkjvjhHnV32GRTzB4ne8i1ZKpT4AUEBlHbsYpHn1PCTjj0w8jHuOFf1agDL7gbjbBduESzyG32QQQ&user=BsRPyEcAAAAJ)
