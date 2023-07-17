@@ -6,14 +6,14 @@ Before getting into machine learning, I studied [engineering physics at McMaster
 You can refer to my [linkedin](https://www.linkedin.com/in/brianmccrindle/) for additional information.
 
 # Highlights
-* CVPR 2023: On the Importance of Label Domain Gaps - Phillip Thomas (joint work at Parallel Domain)
+## CVPR 2023: On the Importance of Label Domain Gaps - Phillip Thomas (joint work at Parallel Domain)
   [![CVPR 2023](https://img.youtube.com/vi/XPeltSxmOJI/sddefault.jpg)](https://www.youtube.com/watch?v=XPeltSxmOJI)
 
   The real-to-synthetic domain gap is a massive problem when wanting to leverage synthetic data during training. If this gap isn't closed, it is highly likely that feature representations learned during synthetic pre-training will be forgotten (also known as catestrophic forgetting). In this talk, Phillip goes through some preliminary research we did at Parallel Domain to uncover the importance of matching label specifications between the source and target distributions. 
 
-* McMaster Engineering Capstone Highlight: NanoRIMS:
+## McMaster Engineering Capstone Highlight: NanoRIMS:
   [![Captone](https://img.youtube.com/vi/OhaVQgD_pT0/0.jpg)](https://www.youtube.com/watch?v=OhaVQgD_pT0)
-  
+
   NanoRIMS is a benchtop lab system to automate the synthesis of gold nanoparticles for biomedical sensor research. As a team of 4, my sub-tasks were focused on creating a purpose-build spectrophotometer to measure particle size while still in solution, and estimating AuCl3 droplet mass from the nozzel output (on the order of micro-grams). This work was done in collaboration with [Dr Leyla Soleymani](https://scholar.google.com/citations?user=LnAefPoAAAAJ) to reduce her lab's downtime. 
 
 # Publications, Talks, and the Rest
