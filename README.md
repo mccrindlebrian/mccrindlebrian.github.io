@@ -1,7 +1,11 @@
-# about me
+# About Me
 Hey, I'm Brian! I specialize in computer vision, physics-informed machine learning, and optical systems. I come from a different background than most when it comes to computer science, but I think it adds a nice "spice" to a traditional ML team. :) 
 
-Before getting into machine learning, I studied [engineering physics at McMaster University](https://www.eng.mcmaster.ca/engphys/) where I focused on lasers, electro-optics, and "old school" computer vision. My Master's of Engineering was in the department of Electrical and Computer Engineering focused on improving uncertainty quantification for medical computer vision systems under [Dr. Michael Noseworthy](https://www.eng.mcmaster.ca/faculty/michael-noseworthy/). 
+Before getting into machine learning, I studied [engineering physics at McMaster University](https://www.eng.mcmaster.ca/engphys/) where I focused on lasers, electro-optics, and "old school" computer vision. 
+
+My Master's of Engineering was in the department of Electrical and Computer Engineering focused on improving uncertainty quantification for medical computer vision systems under [Dr. Michael Noseworthy](https://www.eng.mcmaster.ca/faculty/michael-noseworthy/). I was also a MITACS scholar during this time, working on physics-informed machine learning with [Solid State AI](https://www.solidstate.ai) to improve the growth of semiconductor-based lasers. After graduation, I continued to work with Solid State AI to work on further internal research on anomaly detection for manufacturing.
+
+Currently, I work as a machine learning engineer at [Parallel Domain](https://paralleldomain.com), where we create synthetic data to improve perception tasks. Here, I do research on how to effectively use synthetic data for various tasks (2D/3D detection, 2D/3D semantic segmentation, optical flow, depth estimation, etc..), engage and guide with our customers with these insights, and help develop our ML research tooling.
 
 You can refer to my [linkedin](https://www.linkedin.com/in/brianmccrindle/) for additional information.
 
@@ -11,7 +15,7 @@ You can refer to my [linkedin](https://www.linkedin.com/in/brianmccrindle/) for 
 
   The real-to-synthetic domain gap is a massive problem when wanting to leverage synthetic data during training. If this gap isn't closed, it is highly likely that feature representations learned during synthetic pre-training will be forgotten (also known as catestrophic forgetting). In this talk, Phillip goes through some preliminary research we did at Parallel Domain to uncover the importance of matching label specifications between the source and target distributions. 
 
-## McMaster Engineering Capstone Highlight: NanoRIMS:
+## McMaster Engineering Capstone Highlight 2019: NanoRIMS:
   [![Captone](https://img.youtube.com/vi/OhaVQgD_pT0/0.jpg)](https://www.youtube.com/watch?v=OhaVQgD_pT0)
 
   NanoRIMS is a benchtop lab system to automate the synthesis of gold nanoparticles for biomedical sensor research. As a team of 4, my sub-tasks were focused on creating a purpose-build spectrophotometer to measure particle size while still in solution, and estimating AuCl3 droplet mass from the nozzel output (on the order of micro-grams). This work was done in collaboration with [Dr Leyla Soleymani](https://scholar.google.com/citations?user=LnAefPoAAAAJ) to reduce her lab's downtime. 
