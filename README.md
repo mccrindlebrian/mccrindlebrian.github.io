@@ -5,7 +5,7 @@ Before getting into machine learning, I studied [Engineering Physics at McMaster
 
 My Master's of Applied Science was in the department of Electrical and Computer Engineering focused on improving uncertainty quantification for medical computer vision systems under [Dr. Michael Noseworthy](https://www.eng.mcmaster.ca/faculty/michael-noseworthy/). I was also a MITACS scholar during this time, working on physics-informed machine learning with [Solid State AI](https://www.solidstate.ai) to improve the growth of semiconductor-based lasers. After graduation, I continued to work with Solid State AI to work on building Solid State's deep learning toolbox, and create their anomaly detection product for manufacturing applications.
 
-Currently, I work as a machine learning engineer at [Parallel Domain](https://paralleldomain.com), where we create synthetic data to improve perception tasks. Here, I do research on how to effectively use synthetic data for various tasks (2D/3D detection, 2D/3D semantic segmentation, optical flow, depth estimation, etc..), engage and guide with our customers with these insights, and help develop our ML research tooling.
+Currently, I work as a machine learning engineer at [Parallel Domain](https://paralleldomain.com), where we create synthetic data to improve model performance for perception tasks. Here, I do research on how to effectively use synthetic data for various tasks (2D/3D detection, 2D/3D semantic segmentation, optical flow, depth estimation, etc..), engage and guide with our customers with these insights, and help develop our ML research tooling.
 
 You can refer to my [linkedin](https://www.linkedin.com/in/brianmccrindle/) for additional information.
 
@@ -22,6 +22,6 @@ You can refer to my [linkedin](https://www.linkedin.com/in/brianmccrindle/) for 
 
 # Publications, Talks, and the Rest
 * [March 2023: TrainCheck: Chats #4 - Brian McCrindle: Physics-Informed Machine Learning](https://traincheck.buzzsprout.com/2139078/12686397-chats-4-brian-mccrindle-physics-informed-machine-learning)
-* [2021: A Radiology-focused Review of Predictive Uncertainty for AI Interpretability in Computer-assisted Segmentation](https://pubs.rsna.org/doi/full/10.1148/ryai.2021210031)
+* [2021: A Radiology-focused Review of Predictive Uncertainty for AI Interpretability in Computer-Assisted Segmentation](https://pubs.rsna.org/doi/full/10.1148/ryai.2021210031)
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AMpAcmT-YCkjvjhHnV32GRTzB4ne8i1ZKpT4AUEBlHbsYpHn1PCTjj0w8jHuOFf1agDL7gbjbBduESzyG32QQQ&user=BsRPyEcAAAAJ)
