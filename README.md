@@ -1,9 +1,9 @@
 # About Me
 Hey, I'm Brian! I specialize in computer vision, physics-informed machine learning, and optical systems. I come from a different background than most when it comes to computer science, but I think it adds a nice "spice" to a traditional ML team. :) 
 
-Before getting into machine learning, I studied [engineering physics at McMaster University](https://www.eng.mcmaster.ca/engphys/) where I focused on lasers, electro-optics, and "old school" computer vision. 
+Before getting into machine learning, I studied [Engineering Physics at McMaster University](https://www.eng.mcmaster.ca/engphys/) where I focused on lasers, electro-optics, and "old school" computer vision. 
 
-My Master's of Engineering was in the department of Electrical and Computer Engineering focused on improving uncertainty quantification for medical computer vision systems under [Dr. Michael Noseworthy](https://www.eng.mcmaster.ca/faculty/michael-noseworthy/). I was also a MITACS scholar during this time, working on physics-informed machine learning with [Solid State AI](https://www.solidstate.ai) to improve the growth of semiconductor-based lasers. After graduation, I continued to work with Solid State AI to work on further internal research on anomaly detection for manufacturing.
+My Master's of Applied Science was in the department of Electrical and Computer Engineering focused on improving uncertainty quantification for medical computer vision systems under [Dr. Michael Noseworthy](https://www.eng.mcmaster.ca/faculty/michael-noseworthy/). I was also a MITACS scholar during this time, working on physics-informed machine learning with [Solid State AI](https://www.solidstate.ai) to improve the growth of semiconductor-based lasers. After graduation, I continued to work with Solid State AI to work on building Solid State's deep learning toolbox, and create their anomaly detection product for manufacturing applications.
 
 Currently, I work as a machine learning engineer at [Parallel Domain](https://paralleldomain.com), where we create synthetic data to improve perception tasks. Here, I do research on how to effectively use synthetic data for various tasks (2D/3D detection, 2D/3D semantic segmentation, optical flow, depth estimation, etc..), engage and guide with our customers with these insights, and help develop our ML research tooling.
 
