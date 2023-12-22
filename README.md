@@ -5,6 +5,8 @@ Before getting into machine learning, I studied [Engineering Physics at McMaster
 
 My Master of Applied Science was in the department of Electrical and Computer Engineering focused on improving uncertainty quantification for medical computer vision systems under [Dr. Michael Noseworthy](https://www.eng.mcmaster.ca/faculty/michael-noseworthy/). I was also a MITACS scholar during this time, working on physics-informed machine learning with [Solid State AI](https://www.solidstate.ai) to improve the growth of semiconductor-based lasers. After graduation, I continued to work with Solid State AI to work on building Solid State's deep learning toolbox, and create their anomaly detection product for manufacturing applications.
 
+Currently, I am a machine learning research engineer at the [Opentensor Foundation](https://bittensor.com) to help democratize AI. 
+
 Previously, I worked as a machine learning engineer at [Parallel Domain](https://paralleldomain.com). PD creates image-based synthetic data to improve model performance for perception tasks, primarily for automotive and drone applications. Here, I conducted research on how to effectively use synthetic data for various tasks (2D/3D detection, 2D/3D semantic segmentation, optical flow, depth estimation, etc..), generative modelling to increase asset diversity for better model generalization in the long-tail, engage and guide with our customers with these insights, and help develop our ML research tooling. 
 
 You can refer to my [linkedin](https://www.linkedin.com/in/brianmccrindle/) for additional information.
